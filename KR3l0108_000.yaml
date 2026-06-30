@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0108/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0108_WYG_000-1a, image: WYG1042/WYG1042-0649a.png}
+body:
+  text: 桂苑叢談小說家類二異聞之屬提要臣等謹案桂苑叢談一卷考新唐書藝文志載桂苑叢談注曰馮翊子子休撰不著姓名朝公武引李淑邯鄲書目云姓嚴疑馮翊子其號而子休其字也陳繼儒刻入祕笈乃題為唐子休馮翊著顛倒其文誤之甚矣其書前十條皆載咸通以後鬼神怪異及瑣細之事後為史遺十八條其十二條亦紀唐代雜事餘六條則兼及南北朝然如髙浟捕賊髙延宗縱恣崔宏度酷虐諸事齊隋本史皆已載之又似摘鈔卷中未及刋削者疑已經後人竄亂非原書也其甘露亭一條稱吳王收復浙右之嵗者當為昭宗天復二年時始封楊行密為吳王故子休以此稱之然則作是書者其江南人歟乾隆四十六年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:41eb64bef3308df91a100da7bc2a2b36dea9cfc140312ce616ac4359ef344068
+metadata:
+  title: 桂苑叢談
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:40:54.817849'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0108/KR3l0108_000.txt
+hash: sha256:81f455a8f779ba295ef7a8522deb07497e083502fa2edf980a7fb2ab3d47890c
