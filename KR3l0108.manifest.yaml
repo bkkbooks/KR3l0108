@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3l0108_000.yaml, hash: 'sha256:d8ce3800d58953f29dd8c92cb05fa68cc7cfc88bc7290acd804aeec99d719f3e'}
   - {seq: 1, filename: KR3l0108_001.yaml, hash: 'sha256:a12e3ce1cbe197adceb439b22f179fee264004223f9e560cd3e5e59f6415f08f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0108_000.markers.yaml, hash: 'sha256:264b7b2102601024b32c87a0e41dd8c72245a54d2f124cc420e9571223a27194'}
-  - {seq: 1, role: markers, filename: assets/KR3l0108_001.markers.yaml, hash: 'sha256:aee3c95fd49f510a81fe25f31f3bd23a24502f715a3265bde361e7d4fb062dda'}
+  - {seq: 0, role: markers, filename: assets/KR3l0108_000.markers.yaml, hash: 'sha256:79fdd1cfb1c0fe49ad722da3624142a99ce9e46cd2209498a6ba0876c79c7243'}
+  - {seq: 1, role: markers, filename: assets/KR3l0108_001.markers.yaml, hash: 'sha256:d179444a0fb6c17ff6d47cef1bb662902c2e91014f6d68755234b7c589da20f0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 桂苑叢談
   type: section
   level: 1
-hash: sha256:9306e69ff2710172c991f85607f6e5a1e9dbfd99272409c97c8083880c203269
+hash: sha256:2aa934f6c921638dbbff60579d272a2bb9c88a2990ce0e81cdd891756b30f5a3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
